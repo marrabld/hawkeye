@@ -45,7 +45,6 @@ body{
   color: #000;
   font-size: 14px;
   font-weight: bold;
-  padding: 14px 10px;
   text-transform: uppercase;
 }
 
@@ -81,14 +80,10 @@ body{
 .jumbotron .container {
     position: relative;
     top: 100px;   
-    box-shadow: 0 0 30px black;
-    padding:0 1px 0 1px;
 }
 
 .container {
     margin-top: 50px;
-    box-shadow: 0 0 30px black;
-    padding:0 15px 0 15px;
 }
 
 .learn-more {
